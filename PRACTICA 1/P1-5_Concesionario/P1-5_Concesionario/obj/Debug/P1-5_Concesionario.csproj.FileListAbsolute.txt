@@ -1,0 +1,6 @@
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\bin\Debug\P1-5_Concesionario.dll
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\bin\Debug\P1-5_Concesionario.pdb
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\obj\Debug\P1-5_Concesionario.csproj.AssemblyReference.cache
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\obj\Debug\P1-5_Concesionario.csproj.CoreCompileInputs.cache
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\obj\Debug\P1-5_Concesionario.dll
+C:\Users\juanc\Documents\4º CURSO\.NET\NET_Practicas\PRACTICA 1\P1-5_Concesionario\P1-5_Concesionario\obj\Debug\P1-5_Concesionario.pdb

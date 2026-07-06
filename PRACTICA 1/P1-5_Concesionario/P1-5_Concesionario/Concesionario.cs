@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P1_5_Concesionario
 {
-    internal class Concesionario
+    public class Concesionario
     {
         private Coche[] _coches;
         private int _limite;
@@ -57,7 +57,7 @@ namespace P1_5_Concesionario
                 if (posicion != -1)
                 {
                     _coches[posicion] = null;
-                    for (int j = posicion; j < _contador; j++)
+                    for (int j = posicion; j < _contador - 1; j++)
                     {
                         _coches[j] = _coches[j+1];
                     }
